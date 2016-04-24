@@ -6,6 +6,8 @@
 //  Copyright © 2016 Martin Schmidt. All rights reserved.
 //
 
+// This is a Hello World comment.
+
 import UIKit
 
 @UIApplicationMain
